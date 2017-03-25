@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RandomTableViewController.addSalad() -&gt; ():RandomTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "randomList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MealTableViewController.viewDidLoad() -&gt; ():MealTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "choice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RandomTableViewController.addDes() -&gt; ():RandomTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "randomList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
